@@ -39,25 +39,6 @@ I'm a passionate developer who enjoys building scalable full-stack applications 
 
 ---
 
-## 📌 Featured Projects  
-
-### ⭐ **Project Idea Validator (MERN Stack)**  
-A centralized platform where users submit and manage project ideas, while admins review and handle approvals.  
-**Tech:** React, Node.js, Express.js, MongoDB  
-
----
-
-### ⭐ **Company FAQs & Resource Tools (Next.js)**  
-A Next.js-based resource hub that allows employees to access frequently asked questions, internal tools, and documentation in one place.  
-**Tech:** Next.js, Tailwind CSS, Node.js API  
-
----
-
-### ⭐ **Meal Mate (Java + MySQL + JDBC)**  
-A console-based application for managing recipes, ingredients, and meals using OOP, Java Collections & JDBC.  
-**Tech:** Java, MySQL, JDBC  
-
----
 
 ## 📊 GitHub Insights  
 <p align="center">

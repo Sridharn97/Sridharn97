@@ -13,22 +13,49 @@ I constantly work on improving my system design approach, writing maintainable c
 ## 🛠️ Tech Stack  
 
 ### **Languages**
-`Java` • `JavaScript` • `C` • `C++`
+<p>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</p>
 
 ### **Frontend**
-`Next.js` • `React` • `HTML` • `CSS` • `Bootstrap`
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
 
 ### **Backend**
-`Node.js` • `Express.js` • `REST API Development`
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
+</p>
 
 ### **Databases**
-`MongoDB` • `MySQL`
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 ### **Cloud & DevOps (Basics)**
-`AWS Cloud Basics` • `Git` • `GitHub` • `Postman`
+<p>
+  <img src="https://img.shields.io/badge/AWS%20Cloud-F7991C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
 
 ### **Data & Analytics (Basics)**
-`Machine Learning Basics` • `Data Science Fundamentals` • `Power BI`
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Science-1572B6?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
 
 ---
 
@@ -47,20 +74,19 @@ A Next.js-based resource hub that allows employees to access frequently asked qu
 ---
 
 ### ⭐ **Meal Mate (Java + MySQL + JDBC)**  
-A console-based application for managing recipes, ingredients, and meals.  
-Uses OOP principles, Java Collections, file handling, and JDBC for secure storage.  
+A console-based application for managing recipes, ingredients, and meals using OOP, Java Collections & JDBC.  
 **Tech:** Java, MySQL, JDBC  
 
 ---
 
 ## 📊 GitHub Insights  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SridharN97&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SridharN97&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=SridharN97&theme=tokyonight"/>
 </p>
 
 ---
@@ -75,9 +101,9 @@ Uses OOP principles, Java Collections, file handling, and JDBC for secure storag
 ---
 
 ## 🔗 Connect With Me  
-📌 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/sridhar-n-896a7b293)  
-📌 **LeetCode:** [Your LeetCode Profile](https://leetcode.com/u/Sridhar_n09/)  
-📌 **GitHub:** [YOUR_USERNAME](https://github.com/Sridharn97/)  
+📌 **LinkedIn:** [Sridhar N](https://www.linkedin.com/in/sridhar-n-896a7b293)  
+📌 **LeetCode:** [Sridhar_n09](https://leetcode.com/u/Sridhar_n09/)  
+📌 **GitHub:** [SridharN97](https://github.com/SridharN97/)  
 
 ---
 

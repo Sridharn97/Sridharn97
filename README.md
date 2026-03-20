@@ -9,9 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Building+Scalable+Applications;MERN+Stack+Developer;Learning+System+Design+%26+Cloud;Always+Improving+🚀" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SridharN97&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+
 
 ---
 

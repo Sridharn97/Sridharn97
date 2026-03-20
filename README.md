@@ -96,10 +96,7 @@
   <a href="https://leetcode.com/u/Sridhar_n09/">
     <img src="https://img.shields.io/badge/LeetCode-Sridhar-orange?style=for-the-badge&logo=leetcode"/>
   </a>
-  <a href="https://github.com/SridharN97">
-    <img src="https://img.shields.io/badge/GitHub-Sridhar-black?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+  </p>
 
 ---
 

@@ -1,9 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <h1 align="center">Hi 👋, I'm Sridhar</h1>
 
-<h3 align="center">
-🚀 Full-Stack Developer | ☁️ Cloud & AI Enthusiast | 🧠 System Design Learner
-</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Building+Scalable+Applications;MERN+Stack+Developer;Learning+System+Design+%26+Cloud;Always+Improving+🚀" />

@@ -79,14 +79,17 @@
 ### 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SridharN97&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=SridharN97&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SridharN97&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SridharN97&theme=tokyonight&hide_border=true" />
 </p>
 
 ### 🎯 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SridharN97&theme=tokyonight&hide_border=true&area=true&line=00ff00" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SridharN97&theme=github-dark&hide_border=true&area=true&line=00ff00" />
 </p>
 
 ### 📊 Contribution Stats
@@ -133,30 +136,6 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-## 📈 Advanced Metrics
-
-<p align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SridharN97&theme=tokyonight" />
-      </td>
-      <td width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SridharN97&theme=tokyonight" />
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SridharN97&theme=tokyonight" />
-      </td>
-      <td width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SridharN97&theme=tokyonight" />
-      </td>
-    </tr>
-  </table>
 </p>
 
 ---

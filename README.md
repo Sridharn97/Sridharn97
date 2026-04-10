@@ -79,11 +79,11 @@
 ### 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SridharN97&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SridharN97&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SridharN97&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=SridharN97&theme=radical&hide_border=true" />
 </p>
 
 ### 🎯 GitHub Activity Graph
@@ -95,13 +95,13 @@
 ### 📊 Contribution Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SridharN97&theme=tokyonight&hide_border=true" width="98%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SridharN97&theme=github_dark" />
 </p>
 
 ### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SridharN97&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=7" width="98%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SridharN97&theme=nord&no-frame=true&margin-w=15&row=1&column=7" />
 </p>
 
 ---

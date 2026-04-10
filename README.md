@@ -65,7 +65,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SridharN97&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/Performance-A%2B-success?style=for-the-badge" />
 </p>
 
 ---
